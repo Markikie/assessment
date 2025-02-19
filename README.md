@@ -57,6 +57,10 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+📖 Swagger API Documentation
+🔹 Accessing Swagger UI
+Once the server is running, you can access the Swagger API documentation at:
+🔗 http://localhost:3000/api
 
 ## Deployment
 
@@ -93,6 +97,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
+  
 
 ## License
 
